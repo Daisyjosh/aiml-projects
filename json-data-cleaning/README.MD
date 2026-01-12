@@ -1,0 +1,2 @@
+Mini Project: JSON Data Cleaning & Preprocessing using Python
+Implemented a data-cleaning pipeline that normalizes ratings, handles missing values, removes duplicates, and outputs a cleaned dataset for downstream analysis.
