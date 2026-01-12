@@ -1,2 +1,2 @@
-Mini Project: JSON Data Cleaning & Preprocessing using Python
-Implemented a data-cleaning pipeline that normalizes ratings, handles missing values, removes duplicates, and outputs a cleaned dataset for downstream analysis.
+Customer Feedback Analysis and Recommendation System (Python)
+Built a Python-based system to preprocess customer feedback data, derive analytical insights, and generate rule-based product recommendations.
