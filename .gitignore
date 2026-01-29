@@ -1,4 +1,16 @@
+# Jupyter Notebook
 .ipynb_checkpoints/
-.virtual_documents/
+
+# VS Code
+.vscode/
+
+# Python cache
 __pycache__/
 *.pyc
+
+# Virtual documents
+.virtual_documents/
+
+# OS files
+.DS_Store
+Thumbs.db
